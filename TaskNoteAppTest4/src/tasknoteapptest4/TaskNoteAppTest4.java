@@ -10,7 +10,6 @@ public class TaskNoteAppTest4 {
         LandingpageFrame.setLocationRelativeTo(null); 
         LandingpageFrame.pack();
         
-        
         }
         
 }
